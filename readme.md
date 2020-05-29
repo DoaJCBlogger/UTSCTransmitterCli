@@ -87,10 +87,17 @@ Run the transmitter like this:
 #### Command-line options
 
 -f [file to broadcast]
+
 -ch [channel to broadcast on (1-30 inclusive), default is 1]
+
 -v or -verbose (shows the buffer status), default is false
+
 -vu or -verboseunderrun (shows the buffer status only for underruns), default is false
+
 -l or -list (lists all connected Lime devices)
+
 -d or -device [device string (from the list provided by -l or -list), defaults to the first device]
+
 -g or -gain [transmit gain (0.01-1.0 inclusive), default 1.0]
+
 -h or -? or /? or -help (shows this help message)
