@@ -5,7 +5,7 @@ A QPSK transmitter for broadcasting UTSC with a LimeSDR or LimeSDR Mini. Takes a
 
 Make sure the FTDI driver is installed for the Lime device you want to use.
 
-In the Windows subfolder there is a Visual Studio 2017 project folder called UTSCTransmitterCli. To run the program, open a command prompt and run UTSCTransmitterCli.exe. You can find it in UTSCTransmitterCli\x64\Release\.
+In the Windows subfolder there is a Visual Studio 2017 project folder called UTSCTransmitterCli. To run the program, open a command prompt and run UTSCTransmitterCli.exe. You can find it in Windows\UTSCTransmitterCli\x64\Release\.
 
 The only required argument is -f for an input file.
 
