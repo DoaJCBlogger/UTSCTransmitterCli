@@ -9,7 +9,7 @@ In the Windows subfolder there is a Visual Studio 2017 project folder called UTS
 
 The only required argument is -f for an input file.
 
-![Screenshot](docs/windows_screenshot.png)
+![Screenshot](docs/win_screenshot.png)
 
 #### How to use (Raspberry Pi 3B running Raspbian)
 
